@@ -11,7 +11,9 @@
         <module name="eureka-server" />
         <module name="serice-feign" />
         <module name="service-hi" />
+        <module name="service-miya" />
         <module name="service-ribbon" />
+        <module name="service-sayhi" />
         <module name="service-zuul" />
       </profile>
     </annotationProcessing>
@@ -23,7 +25,9 @@
       <module name="scfcharacter2" target="1.8" />
       <module name="serice-feign" target="1.8" />
       <module name="service-hi" target="1.8" />
+      <module name="service-miya" target="1.8" />
       <module name="service-ribbon" target="1.8" />
+      <module name="service-sayhi" target="1.8" />
       <module name="service-zuul" target="1.8" />
     </bytecodeTargetLevel>
   </component>
